@@ -10,17 +10,17 @@
 
 - ⚡ Fun fact **I like manggo juice**
 
-<h3 align="left">Currently working on:</h3>
+<h4 align="left">Currently working on:</h4>
 
 - [Belajar Fundamental Aplikasi Android - Submission 1]  (https://github.com/7z1x/UserGithub) [Bangkit]
 
 
-<h3 align="left">Recently finished:</h3>
+<h4 align="left">Recently finished:</h4>
 
 - [Belajar Membuat Aplikasi Android untuk Pemula]
 
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
   <a href="https://instagram.com/llzf4_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
@@ -28,7 +28,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <div align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
