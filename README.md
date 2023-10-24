@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7z1x&label=Profile%20views&color=0e75b6&style=flat" alt="7z1x" /> </p>
 
-- 🌱 I’m currently learning **Bangkit : Android Development Path**
+- 🌱 I’m currently learning on **Bangkit : Android Development Path**
 
 - 📫 How to reach me **zulfahmimaulana3@gmail.com**
 
@@ -12,13 +12,7 @@
 
 <h4 align="left">Currently working on:</h4>
 
-- [Belajar Fundamental Aplikasi Android - Submission 1]  (https://github.com/7z1x/UserGithub) [Bangkit]
-
-
-<h4 align="left">Recently finished:</h4>
-
-- [Belajar Membuat Aplikasi Android untuk Pemula]
-
+- 🔎 I’m looking for an internship, job recruitment, and collaboration on Android Native (Kotlin)
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
