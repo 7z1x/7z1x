@@ -30,7 +30,7 @@
 
 
 <h3 align="left">Github Statistic:</h3>
-<div align="left" style="display: flex; justify-content: space-between; max-width: 100%;">
+<div align="left" style="display: flex; justify-content: space-between; max-width: 50%;">
   <a href="https://github.com/7z1x" style="flex: 2;">
     <!-- Ini adalah elemen yang akan berada di tengah -->
     <img style="width: 100%;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7z1x&layout=compact&langs_count=8" />
