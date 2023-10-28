@@ -31,11 +31,11 @@
 
 
 <h3 align="left">Github Statistic:</h3>
-<div align="center">
-  <a href="https://github.com/7z1x">
+<div>
+  <a href="https://github.com/7z1x" align="center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7z1x&layout=compact&langs_count=8"/>
   </a>
-<img src="https://github-readme-stats.vercel.app/api?username=7z1x&show_icons=true&locale=en" alt="7z1x"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=7z1x&" alt="7z1x"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=7z1x&show_icons=true&locale=en" alt="7z1x"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=7z1x&" alt="7z1x"/>
 </div>
 
