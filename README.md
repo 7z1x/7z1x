@@ -30,24 +30,19 @@
 
 
 <h3 align="left">Github Statistic:</h3>
-<div align="center" style="display: flex; justify-content: flex-end; max-width: 100%; flex-direction: row;">
-  <a href="https://github.com/7z1x" style="flex: 2;">
+<div>
+  <a href="https://github.com/7z1x">
     <img style="width: 50%;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7z1x&layout=compact&langs_count=8" />
   </a>
-  <div align="left" style="flex: 1; display: flex;">
-    <div style="flex: 1;">
-      <a href="https://github.com/7z1x">
-        <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=7z1x&show_icons=true&locale=en" alt="7z1x" />
-      </a>
-    </div>
-    <div align="right" style="flex: 1; ">
-      <a href="https://github.com/7z1x">
-        <img style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=7z1x&" alt="7z1x" />
-      </a>
-    </div>
   </div>
-</div>
-
+  <div style="flex-wrap: wrap;">
+    <a href="https://github.com/7z1x">
+      <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=7z1x&show_icons=true&locale=en" alt="7z1x" />
+    </a>
+    <a href="https://github.com/7z1x">
+      <img style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=7z1x&" alt="7z1x" />
+    </a>
+  </div>
 
 
 
