@@ -36,16 +36,19 @@
     <img style="width: 50%;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7z1x&layout=compact&langs_count=8" />
   </a>
   <div align="left" style="flex: 1; display: flex; flex-direction: column; justify-content: space-between;">
-    <a href="https://github.com/7z1x" style="flex: 1;"> <!-- elemen 2 -->
-      <!-- Ini adalah elemen yang akan berada di kiri -->
+    <a href="https://github.com/7z1x" style="flex: 1;">
+      <!-- Ini adalah elemen yang akan berada di kiri (elemen 2) -->
       <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=7z1x&show_icons=true&locale=en" alt="7z1x" />
     </a>
-    <a href="https://github.com/7z1x" style="flex: 1;"> <!-- elemen 3 -->
-      <!-- Ini adalah elemen lainnya yang akan berada di kanan -->
-      <img style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=7z1x&" alt="7z1x" />
-    </a>
+    <div style="display: flex; justify-content: flex-end;">
+      <a href="https://github.com/7z1x" style="flex: 1;">
+        <!-- Ini adalah elemen lainnya yang akan berada di kanan (elemen 3) -->
+        <img style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=7z1x&" alt="7z1x" />
+      </a>
+    </div>
   </div>
 </div>
+
 
 
 
