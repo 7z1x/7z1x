@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7z1x&label=Profile%20views&color=0e75b6&style=flat" alt="7z1x" /> </p>
 
-- 🌱 I'm a Batch 2_2023 Bangkit Graduate **Bangkit : Android Development Path**
+- 🌱 I'm a Batch-2/2023 Bangkit Graduate **Bangkit : Android Development Path**
 
 - 📫 How to reach me **zulfahmimaulana3@gmail.com**
 
