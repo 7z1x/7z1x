@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Zulfahmi M. Ardianto</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=7z1x&label=Profile%20views&color=0e75b6&style=flat" alt="7z1x" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=7z1x"/> </p>
 
 - 🌱 I'm a Batch-2/2023 Bangkit Graduate **Bangkit : Android Development Path**
 
