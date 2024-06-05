@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **zulfahmimaulana3@gmail.com**
 
-- ⚡ Fun fact **I like manggo juice**
 
 
 <h3 align="left">Currently working on:</h3>
