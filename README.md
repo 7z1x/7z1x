@@ -33,11 +33,6 @@
           <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7z1x&layout=compact&langs_count=8" style="width: 100%;" />
         </a>
       </td>
-      <td style="width: 48%; border: transparent;">
-        <a href="https://github.com/7z1x">
-          <img src="https://github-readme-stats.vercel.app/api?username=7z1x&show_icons=true&locale=en" alt="7z1x" style="width: 100%;" />
-        </a>
-      </td>
     </tr> 
   </table>
 </div>
