@@ -131,15 +131,7 @@ I'm a passionate **AI Engineer, Data Analyst & Machine Learning** from Indonesia
 
 </div>
 
-<br/>
-
-<div align="center">
-  
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=7z1x&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area_color=6C63FF&area=true&hide_border=true&custom_title=📊%20Contribution%20Activity)](https://github.com/7z1x)
-
 </div>
-
----
 
 ---
 
