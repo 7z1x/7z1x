@@ -140,9 +140,9 @@ I'm an **AI Engineer, Data Analyst & Machine Learning practitioner** from Indone
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Sign Language Recognition</h3>
+      <h3 align="center">BISINDO: Sign Language Recognition</h3>
       <p align="center">
-        <a href="https://github.com/7z1x/sign-language-recognition">
+        <a href="https://github.com/7z1x/BISINDO-Image-Classification-Model">
           <img src="https://img.shields.io/badge/VIEW_REPO-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
